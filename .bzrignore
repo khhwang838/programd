@@ -1,0 +1,8 @@
+log
+build.tmp
+distrib
+resources/manifests
+resources/manifests/*.mf
+src-build.tmp
+test-build.tmp
+log

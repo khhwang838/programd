@@ -1,0 +1,8 @@
+/target/
+/build*/
+/log/
+/distrib/
+/src-*/
+/test-*/
+/.settings/
+.classpath

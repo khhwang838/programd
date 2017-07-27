@@ -1,0 +1,15 @@
+.deployables
+build.tmp
+src-build.tmp
+test-build.tmp
+classes
+ffm
+aiml
+logs
+secret.key
+programd.war
+programd-main.jar
+programd-rhino.jar
+distrib
+var
+graph.txt
